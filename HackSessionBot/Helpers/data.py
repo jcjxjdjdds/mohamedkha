@@ -22,7 +22,7 @@ PM_TEXT = """
 **مـرحـبآ عزيزي {},**
 انـا بـوت **{}** مخصص لاختراق بوت كود تيرمكس & بايروجرام
 
-مـطور البوت @T4_Mohamed
+مـطور البوت @O_m_xl
 
 
 """
@@ -65,10 +65,10 @@ PM_BUTTON = IKM([
         IKB("اخـتـراق الان", callback_data="hack_btn"), 
 
       
-        IKB("الـمـطـور مـحـمـد", url="https://t.me/T4_Mohamed"),
+        IKB("الـمـطـور مـحـمـد", url="https://t.me/O_m_xl"),
     ],
     [
-        IKB("قـنـاة مـحـمـد", url="https://t.me/ZFZ_ZFZ"),
+        IKB("قـنـاة مـحـمـد", url="https://t.me/def_Zoka"),
     ],
     ],    
     )
